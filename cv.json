@@ -1,0 +1,229 @@
+{
+    "basics": {
+        "name": "Valentin",
+        "label": "Full Stack Developer",
+        "image": "/perro.png",
+        "email": "sabatiko02@gmail.com",
+        "phone": "",
+        "url": "https://portafolio-f5209.web.app/",
+        "summary": "Tengo 20 años y soy un apasionado desarrollador de software con ganas de aprender y mejorar constantemente. Actualmente estudio el Instituto San Ignacio de Loyola - ISIL, y siempre estoy buscando oportunidades para mejorar mis habilidades y adquirir nuevos conocimientos. Me motiva enfrentar desafíos y trabajar en proyectos que me permitan crecer tanto personal como profesionalmente.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Lima",
+            "countryCode": "PE",
+            "region": "Perú"
+        },
+        "profiles": [
+            {
+                "network": "Discord",
+                "username": "",
+                "url": "https://discord.com/users/1167918904455213160"
+            },
+            {
+                "network": "GitHub",
+                "username": "",
+                "url": "https://github.com/mikexd27"
+            }
+        ]
+    },
+    "work": {
+        
+        "summary": "Actualmente no con experiencia laboral, pero estoy buscando la oportunidad de adquirirla y aplicar mis conocimientos. Tengo muchas ganas de aprender y crecer profesionalmente, dispuesto a contribuir con mi entusiasmo y habilidades en cualquier proyecto o equipo de trabajo."
+        
+    },
+    "education": [
+        {
+            "institution": "Instituto San Ignacio de Loyola",
+            "url": "https://isil.pe/",
+            "area": "Desarrollo de Software",
+            "studyType": "Estudiante",
+            "startDate": "2022-06-08",
+            "endDate": null,
+            "score": "",
+            "courses": [
+                "Desarrollo de Software"
+            ]
+        },
+        {
+            "institution": "Instituto Cultural Peruano Norteamericano",
+            "url": "https://www.icpna.edu.pe/",
+            "area": "Ingles",
+            "studyType": "Egresado",
+            "startDate": "2021-02-05",
+            "endDate": "2024-05-24",
+            "score": "",
+            "courses": [
+                "Inglés para Jóvenes y Adultos"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Master",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Intermedio",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Firebase",
+            "level": "Intermedio",
+            "keywords": [
+                "Bases de Datos",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Intermedio",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "Next.js",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "WordPress",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Elementor",
+                "Woocomerce"
+            ]
+        },
+        {
+            "name": "Net",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Kotlin",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo de aplicaciones",
+                "Frontend",
+                "Backend"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Video games",
+            "keywords": [
+                "LoL",
+                "Minecraft",
+                "Valorant"
+            ]
+        },
+        {
+            "name": "Pets",
+            "keywords": [
+                "Dogs",
+                "Cats"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "NexusTech",
+            "isActive": true,
+            "description": "Pagina web de la empresa NexusTech, la cual hace consultoria tecnologica",
+            "highlights": [
+                "Soluciones innovadoras en tecnología",
+                "Html & Css"
+            ],
+            "url": "https://nexustechv1.netlify.app"
+        },
+        {
+            "name": "LeonComputing",
+            "isActive": true,
+            "description": "Aplicacion web para LeonComputing",
+            "highlights": [
+                "Creacion de CRUD y uso de Windows Form",
+                ".NET & C#"
+            ],
+            "url": "https://youtu.be/moB6n-RYFqU"
+        },
+        {
+            "name": "LeonComputingWeb",
+            "isActive": true,
+            "description": "Sitio web para LeonComputing",
+            "highlights": [
+                "Consultas con Boostrap",
+                ".NET & Css"
+            ],
+            "url": "https://youtu.be/fLiFIxR35es"
+        }    
+    ]
+}
